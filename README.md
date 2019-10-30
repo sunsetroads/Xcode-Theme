@@ -6,7 +6,7 @@ one-dark-atom theme for xcode
 ### Install
 
 ``` 
-git clone https://github.com/znvy/Xcode-Theme.git
+git clone https://github.com/sunsetroads/xcode-theme.git
 ```
 ```
 cd Xcode-Theme
@@ -14,4 +14,3 @@ cd Xcode-Theme
 ```
 cp one-dark-atom.xccolortheme /Users/*yourname*/Library/Developer/Xcode/UserData/FontAndColorThemes
 ```
-Then reset Xcode and select the theme
