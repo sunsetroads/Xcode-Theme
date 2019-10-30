@@ -1,5 +1,5 @@
 # Xcode-Theme
-one-dark-atom theme for xcode
+One Dark theme for Xcode
 
 ![](https://raw.githubusercontent.com/sunsetroads/xcode-theme/master/screenshot.png)
 
