@@ -1,7 +1,7 @@
 # Xcode-Theme
 One Dark theme for Xcode
 
-![](https://raw.githubusercontent.com/sunsetroads/xcode-theme/master/screenshot.png)
+![](https://raw.githubusercontent.com/sunsetroads/xcode-theme/master/image/screenshot.png)
 
 ### Install
 
