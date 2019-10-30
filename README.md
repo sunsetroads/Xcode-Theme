@@ -1,5 +1,7 @@
 # Xcode-Theme
-one-dark-atom in xcode
+one-dark-atom theme for xcode
+
+![](https://raw.githubusercontent.com/sunsetroads/xcode-theme/master/screenshot.png)
 
 ### Install
 
