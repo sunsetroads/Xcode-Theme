@@ -6,7 +6,7 @@ One Dark theme for Xcode
 ### Install
 
 ``` 
-git clone https://github.com/sunsetroads/xcode-theme.git
+git clone https://github.com/sunsetroads/Xcode-Theme.git
 ```
 ```
 cd Xcode-Theme
